@@ -1,6 +1,6 @@
 using System;
 
-namespace strp.delivery.WebUI.Models
+namespace stpr.delivery.WebUI.Models
 {
     public class ErrorViewModel
     {

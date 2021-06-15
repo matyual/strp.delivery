@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace strp.delivery.WebUI
+namespace stpr.delivery.WebUI
 {
     public class Program
     {

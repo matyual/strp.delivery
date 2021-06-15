@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using strp.delivery.WebUI.Models;
+using stpr.delivery.WebUI.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace strp.delivery.WebUI.Controllers
+namespace stpr.delivery.WebUI.Controllers
 {
     public class HomeController : Controller
     {
